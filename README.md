@@ -1,2 +1,3 @@
-# makeabit
-Make a Bit - Open Source Hardware Projects 
+# Make a Bit!
+
+Make a Bit - Open Source Hardware and Software Projects 
